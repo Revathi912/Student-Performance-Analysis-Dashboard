@@ -6,9 +6,7 @@ The Student Performance Analysis Dashboard is an interactive Power BI project de
 
 This dashboard provides meaningful insights through interactive visualizations and KPIs, helping users understand student performance and institutional statistics.
 
-## 📊 Dashboard Preview
 
-![Student Performance Analysis Dashboard](dashboard.png)
 
 ## 🎯 Project Objectives
 
